@@ -17,11 +17,6 @@
 ![Topology](https://i.postimg.cc/x19bHcbF/day1-topology.png)
 
 
-## 📥 Download Lab File
-
-[Download Lab File](https://github.com/0x9z/CCNA-Labs/raw/main/lab-1/Day_01_Lab_New_York_&_Tokyo_Branch_Network.pkt)
-
-
 ## 🏷️ Tags
 
 `CCNA` `Packet Tracer` `Jeremy's IT Lab` `Day 1`
