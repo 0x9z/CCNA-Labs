@@ -12,7 +12,7 @@
   - 4 x Servers
 - Connect devices using: **Automatically Choose Connection Type**.
 
-## 🌐 Network Topology
+## 🌐 Network Topology:
 
 ![Topology](https://i.postimg.cc/x19bHcbF/day1-topology.png)
 
