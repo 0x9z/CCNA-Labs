@@ -9,7 +9,13 @@
   - 8 x PCs
   - 10 x Servers
   - 1 x Single Mode Fiber cable
-- Connect devices using: **Automatically Choose Connection Type**.
+    
+- Connect devices using:
+-  **Single Mode Fiber Cable for Long Distances**.
+-  **Cross Over Cable Between Switche and Switche**.
+-  **Cross Over Cable Between Router and Router**.
+-  **Straight Through Cable Between PC and Switche**.
+-  **Straight Through Cable Between Server and Switche**
 
 ## 🌐 Network Topology
 
