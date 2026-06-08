@@ -4,7 +4,7 @@ My personal collection of CCNA labs (Packet Tracer, GNS3, etc.).
 
 ## 📂 Lab Index
 
-| Day | Topic | Folder |
+| Day | Topic | link |
 | :--- | :--- | :--- |
 | Day 01 | Two Branches One Network
 | ... | ... | ... |
