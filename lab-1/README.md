@@ -19,7 +19,8 @@
 
 ## 📥 Download Lab File
 
-[Day_01_Lab_New_York_&_Tokyo_Branch_Network.pkt](Day_01_Lab_New_York_&_Tokyo_Branch_Network.pkt)
+[Download Lab File](https://github.com/0x9z/CCNA-Labs/raw/main/lab-1/Day_01_Lab_New_York_&_Tokyo_Branch_Network.pkt)
+
 
 ## 🏷️ Tags
 
