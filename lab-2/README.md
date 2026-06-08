@@ -1,9 +1,8 @@
-This lab shows cable types and distances in a medium-sized network.
 # Day 1 Lab: New York & Tokyo Branch Network
 
 ## 📌 Lab Instructions (from Jeremy's IT Lab)
 
-- Build the network diagram shown in the video (timestamp 16:40).
+- This lab shows cable types and distances in a medium-sized network.
 - Devices used:
   - 2 x Routers (Cisco 2911)
   - 2 x Switches (Cisco 2960)
@@ -15,7 +14,7 @@ This lab shows cable types and distances in a medium-sized network.
 
 ## 🌐 Network Topology
 
-![Topology](https://i.imgur.com/YourImageCode.png)
+[![Screenshot-2026-06-08-12-47-39.png](https://i.postimg.cc/HnG5fxJh/Screenshot-2026-06-08-12-47-39.png)](https://postimg.cc/0MfbS90Y)
 
 ## 🏷️ Tags
 
