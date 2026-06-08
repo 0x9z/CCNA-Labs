@@ -6,7 +6,7 @@ My personal collection of CCNA labs (Packet Tracer, GNS3, etc.).
 
 | Day | Topic | link |
 | :--- | :--- | :--- |
-| Day 01 | Two Branches One Network
+| Day 01 | Two Branches One Network | [Link](https://github.com/0x9z/CCNA-Labs/tree/main/lab-1) |
 | ... | ... | ... |
 
 ## 🛠️ Tools Used
