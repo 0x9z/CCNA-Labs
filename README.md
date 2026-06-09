@@ -1,6 +1,6 @@
 # CCNA Labs Portfolio
 
-My personal collection of CCNA labs (Packet Tracer, GNS3, etc.).
+My personal collection of CCNA labs (Packet Tracer, GNS3, etc.)
 
 ## 📂 Lab Index
 
