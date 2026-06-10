@@ -1,4 +1,4 @@
-# 🧪 Lab: OSI & TCP/IP Models – Simulation Mode
+# Lab 3 : OSI & TCP/IP Models – Simulation Mode
 
 ## 🎯 Objective
 Visualize how network traffic moves through the OSI and TCP/IP models using Packet Tracer’s Simulation Mode.
