@@ -34,7 +34,7 @@ Visualize how network traffic moves through the OSI and TCP/IP models using Pack
 - Real-world **encapsulation** process
 
 ## 📁 Lab File
-[Download .pkt file from jeremy IT Website](./lab-file.pkt)
+[Download .pkt file from jeremy IT Website](https://www.jeremysitlab.com/)
 
 ---
 
