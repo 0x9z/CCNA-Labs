@@ -9,7 +9,7 @@ Visualize how network traffic moves through the OSI and TCP/IP models using Pack
 - 1 Server (SRV1)
 - 1 PC (PC1)
 
-## 📡 Protocols Observed
+## 📡 Protocols Observed :
 
 | Protocol | Layer | Purpose |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ Visualize how network traffic moves through the OSI and TCP/IP models using Pack
 - Real-world **encapsulation** process
 
 ## 📁 Lab File
-[Download .pkt file](./lab-file.pkt)
+[Download .pkt file from jeremy IT Website](./lab-file.pkt)
 
 ---
 
