@@ -19,6 +19,8 @@ Visualize how network traffic moves through the OSI and TCP/IP models using Pack
 | OSPF | Layer 3 | Dynamic routing |
 | DHCP | Layer 7 | Auto-assigns IP addresses |
 
+![Topology 2](https://i.postimg.cc/HnM702cX/STP-layer2-topology.png)
+
 ## 🔍 Key Takeaways
 - **STP** → Layers 1 & 2 only (Ethernet frame)
 - **OSPF** → Layers 1–3 (includes IP addresses)
