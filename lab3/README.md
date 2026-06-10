@@ -9,6 +9,8 @@ Visualize how network traffic moves through the OSI and TCP/IP models using Pack
 - 1 Server (SRV1)
 - 1 PC (PC1)
 
+![Topology 1](https://i.postimg.cc/h4QxqSC5/lab3-topology.png)
+
 ## 📡 Protocols Observed :
 
 | Protocol | Layer | Purpose |
