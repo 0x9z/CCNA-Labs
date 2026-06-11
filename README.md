@@ -3,7 +3,7 @@
 My personal collection of CCNA labs (Packet Tracer, GNS3, etc.)
 
 # See Full CCNA Study Notes
-[CCNA Study Notes]()
+CCNA Study Notes [HERE](https://github.com/0x9z/CCNA-Jeremy-Notes)
 
 ## 📂 Lab Index
 
